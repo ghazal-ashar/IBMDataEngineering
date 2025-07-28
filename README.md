@@ -6,8 +6,7 @@
 
 ---
 
-This repository contains **notes, labs, and learning materials** from the  
-[IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) offered on Coursera.
+This repository contains **notes, labs, and learning materials** from the [IBM Data Engineering Professional Certificate (https://www.coursera.org/professional-certificates/ibm-data-engineer) offered on Coursera.
 
 🧪 This repo includes **only notes and exercises**.  
 🔗 **Projects for each course will be hosted in separate repositories and linked below once available.**
