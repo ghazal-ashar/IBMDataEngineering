@@ -1,0 +1,12 @@
+2025-Jul-27-12:03:30:ETL Started
+2025-Jul-27-12:03:30:Extraction Started
+2025-Jul-27-12:05:18:ETL Started
+2025-Jul-27-12:05:18:Extraction Started
+2025-Jul-27-12:05:41:ETL Started
+2025-Jul-27-12:05:41:Extraction Started
+2025-Jul-27-12:05:41:Extraction Completed
+2025-Jul-27-12:05:41:Transformation Started
+2025-Jul-27-12:05:42:Transformation Completed
+2025-Jul-27-12:05:42:Load Started
+2025-Jul-27-12:05:42:Load Completed
+2025-Jul-27-12:05:42:ETL Completed
