@@ -24,7 +24,7 @@
 
 ---
 
-This repository contains **notes, labs, and summaries** from the [IBM Data Engineering Professional Certificate(https://www.coursera.org/professional-certificates/ibm-data-engineer) on Coursera.
+This repository contains **notes, labs, and summaries** from the [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) on Coursera.
 
 📁 This repo includes only **learning material**: notes, SQL, shell scripts, and markdown summaries.  
 📦 **Course projects will be published in separate repositories** and linked below once available.
@@ -33,17 +33,17 @@ This repository contains **notes, labs, and summaries** from the [IBM Data Engin
 
 ## 📘 Courses & Progress
 
-| #  | Course Title                                                                                         | Status        |
-|----|------------------------------------------------------------------------------------------------------|---------------|
-| 1  | Introduction to Data Engineering                                                                     | ✅ Completed   |
+| #  | Course Title                                                                                          | Status        |
+|----|------------------------------------------------------------------------------------------------------ |---------------|
+| 1  | Introduction to Data Engineering                                                                      | ✅ Completed   |
 | 2  | Python for Data Science, AI & Development                                                             | ✅ Completed   |
 | 3  | Python Project for Data Engineering                                                                   | ✅ Completed   |
 | 4  | Introduction to Relational Databases (RDBMS)                                                          | ✅ Completed   |
 | 5  | Databases and SQL for Data Science with Python                                                        | ✅ Completed   |
 | 6  | Hands-on Introduction to Linux Commands and Shell Scripting                                           | ✅ Completed   |
-| 7  | Relational Database Administration (DBA)                                                              | ✅ Completed   |
-| 8  | ETL and Data Pipelines with Shell, Airflow and Kafka                                                  | 🟡 In Progress |
-| 9  | Data Warehouse Fundamentals                                                                           | 🟡 In Progress |
+| 7  | Relational Database Administration (DBA)                                                              | 🟡 In Progress |
+| 8  | ETL and Data Pipelines with Shell, Airflow and Kafka                                                  | ⏳ Upcoming    |
+| 9  | Data Warehouse Fundamentals                                                                           | ⏳ Upcoming    |
 | 10 | BI Dashboards with IBM Cognos Analytics and Google Looker                                             | ⏳ Upcoming    |
 | 11 | Introduction to NoSQL Databases                                                                       | ⏳ Upcoming    |
 | 12 | Introduction to Big Data with Spark and Hadoop                                                        | ⏳ Upcoming    |

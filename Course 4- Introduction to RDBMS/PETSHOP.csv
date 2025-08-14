@@ -1,6 +1,3 @@
-ID,ANIMAL,SALEPRICE,SALEDATE,QUANTITY
-1,Cat,450.09,2018-05-29,9
-2,Dog,666.66,2018-06-01,3
-3,Parrot,50.00,2018-06-04,2
-4,Hamster,60.60,2018-06-11,6
-5,Goldfish,48.48,2018-06-14,24
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ea9e093195c5f00b7318bc25748ec1f579ff246a0e80cba24ac800da88243b8
+size 178
